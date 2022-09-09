@@ -1,0 +1,30 @@
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+.HSC {
+    text-align: center;
+}
+.HSC a {
+    text-decoration: none;
+}
+.proImages img {
+    text-align: center;
+    border: 1px solid black;
+}
+.proImages {
+    text-align: center;
+}
+.cdl{
+    margin-left: 20px;
+}
+
+.h2c{
+    color: green;
+    font-size: 20pt;
+}
+
+.h2a{
+    color: gray;
+    font-size: 20pt;
+}
